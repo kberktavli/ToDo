@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.berktavli.todo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.berktavli.todo"
